@@ -12,7 +12,7 @@ libraries:
 
 # [START gae_python_mysql_env]
 env_variables:
-    CLOUDSQL_CONNECTION_NAME: your-connection-name
+    CLOUDSQL_CONNECTION_NAME: airy-sled-216907:us-central1:testsql
     CLOUDSQL_USER: root
-    CLOUDSQL_PASSWORD: your-cloudsql-user-password
+    CLOUDSQL_PASSWORD: 123456
 # [END gae_python_mysql_env]
